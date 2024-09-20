@@ -39,7 +39,7 @@ clonando o projeto:
 ir para o diretorio para aonde se quer salvar o projeto
 cd/caminho/
 
-git clone https://github.com/usuario/repositorio.git
+git clone [https://github.com/usuario/repositorio.git](https://github.com/GuilhermeCamargo744/aula-fecaf-noite-dog-ever-match.git)
 navegar ate o diretorio do projeto clonado
 cd repositorio
 
